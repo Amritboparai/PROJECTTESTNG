@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-01T12:18:11 EST" name="demoblaze" finished-at="2022-02-01T12:24:23 EST" duration-ms="372901">
+    <groups>
+    </groups>
+    <test started-at="2022-02-01T12:18:11 EST" name="Test" finished-at="2022-02-01T12:24:23 EST" duration-ms="372901">
+      <class name="testlayer1.LOGINTEST">
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:18:11 EST" name="initsetup" finished-at="2022-02-01T12:18:39 EST" duration-ms="28708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Title()[pri:1, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:18:39 EST" name="Title" finished-at="2022-02-01T12:18:40 EST" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:18:40 EST" name="close" finished-at="2022-02-01T12:18:46 EST" duration-ms="6166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:19:29 EST" name="initsetup" finished-at="2022-02-01T12:20:17 EST" duration-ms="48926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:2, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:20:17 EST" name="signup" data-provider="Details" finished-at="2022-02-01T12:20:35 EST" duration-ms="17809" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[peterjohn]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.23456789E8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:20:35 EST" name="close" finished-at="2022-02-01T12:20:37 EST" duration-ms="1752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:20:37 EST" name="initsetup" finished-at="2022-02-01T12:20:53 EST" duration-ms="15540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:2, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:20:53 EST" name="signup" data-provider="Details" finished-at="2022-02-01T12:21:06 EST" duration-ms="13272" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[johnson]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9.87654321E8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:21:06 EST" name="close" finished-at="2022-02-01T12:21:12 EST" duration-ms="6576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:21:12 EST" name="initsetup" finished-at="2022-02-01T12:21:54 EST" duration-ms="41126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:2, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:21:54 EST" name="signup" data-provider="Details" finished-at="2022-02-01T12:22:18 EST" duration-ms="24272" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gawin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[doorstep]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:22:18 EST" name="close" finished-at="2022-02-01T12:22:22 EST" duration-ms="4178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:22:22 EST" name="initsetup" finished-at="2022-02-01T12:23:00 EST" duration-ms="37829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="signup(java.lang.String,java.lang.String)[pri:2, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:23:00 EST" name="signup" data-provider="Details" finished-at="2022-02-01T12:23:20 EST" duration-ms="20264" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[money]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cash1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:23:20 EST" name="close" finished-at="2022-02-01T12:23:24 EST" duration-ms="4344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:23:24 EST" name="initsetup" finished-at="2022-02-01T12:23:48 EST" duration-ms="23529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="login()[pri:3, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:23:48 EST" name="login" finished-at="2022-02-01T12:24:19 EST" duration-ms="30542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testlayer1.LOGINTEST@402bba4f]" started-at="2022-02-01T12:24:19 EST" name="close" finished-at="2022-02-01T12:24:23 EST" duration-ms="4843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testlayer1.LOGINTEST -->
+    </test> <!-- Test -->
+  </suite> <!-- demoblaze -->
+</testng-results>
